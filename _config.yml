@@ -8,4 +8,5 @@ exclude:
   - "Gemfile"
   - "Gemfile.lock"
 
+markdown: kramdown
 
