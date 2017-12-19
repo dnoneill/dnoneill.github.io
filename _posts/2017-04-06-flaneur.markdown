@@ -3,7 +3,7 @@ layout: post
 title: Flaneur
 date: 2017-09-12 13:32:20 +0300
 description: 
-img: i-rest.jpg # Add image post (optional)
+img: flaneur.JPG
 tags: [Leaflet, Javascript, Jekyll]
 link: https://dnoneill.github.io/flaneur
 ---
