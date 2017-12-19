@@ -4,12 +4,12 @@ layout: main
 {% for post in paginator.posts %}
 <article class="post">
   {% if post.img %}
-    <a href="{{post.link | prepend: site.baseurl}}" target="_blank" ><a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.link}}"></a></a>
+    <a href="{{post.link}}" target="_blank" ><a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.link}}"></a></a>
   {% else %}
-  <a href="{{post.link | prepend: site.baseurl}}" target="_blank" ></a>
+  <a href="{{post.link}}" target="_blank" ></a>
   {% endif %}
   <div class="post-content">
-    <h2 class="post-title"><a href="{{post.link | prepend: site.baseurl}}">{{post.title}}</a></h2>
+    <h2 class="post-title"><a href="{{post.link}}">{{post.title}}</a></h2>
     <p>{{ post.content | strip_html }}</p>
   </div>
 </article>
