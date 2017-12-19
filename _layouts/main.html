@@ -20,9 +20,7 @@ layout: default
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
     <a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }}</a>
-  {% endunless %}{% endfor %}
-    {% endif %}{% endfor %}
-  {% endunless %}{% endfor %}
+{% endfor %}
 </section>
 
   <!-- End Section Contact -->
