@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
+title: LA Times Photo Index
 date: 2017-04-06 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Web application written in Django that houses the photo index for UCLA's LA Times photographic index.
 img:  # Add image post (optional)
+link: https://github.com/dnoneill/latimes
 ---
