@@ -3,8 +3,8 @@ layout: post
 title: Various Scripts
 date: 2017-12-08 00:00:00 +0300
 description: 
-img: ![](https://openclipart.org/download/246266/code-break.svg)
-tags: [Python, Scripting] # add tag
+img: 
+tags: [Python] # add tag
 link: https://github.com/dnoneill/scripts
 ---
 Various Scripting for multiple projects. Includes scripting for dealing with images, videos and spreadsheets.
