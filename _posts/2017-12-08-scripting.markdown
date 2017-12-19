@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Various Scripts
-date: 2017-09-12 00:00:00 +0300
+date: 2017-12-08 00:00:00 +0300
 description: 
 img: 
 tags: [Python, Scripting] # add tag
