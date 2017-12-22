@@ -988,6 +988,7 @@ a.tag {
 padding: 5px;
 color: darkblue;
 text-decoration:  none;
+display: block;
 }
 
 .content-box {
@@ -1393,6 +1394,11 @@ a.newer-posts:hover {
     max-width: 480px;
     margin: 10px auto auto;
   }
+  
+  a.tag {
+  display: inline;
+  }
+  
   .about img {
     width: 100px;
     height: 100px;
