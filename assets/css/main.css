@@ -984,6 +984,12 @@ table tfoot td {
   margin: 0 0 10px;
 }
 
+a.tag {
+padding: 5px;
+color: darkblue;
+text-decoration:  none;
+}
+
 .content-box {
   padding: 20px;
   padding-left: 260px;
