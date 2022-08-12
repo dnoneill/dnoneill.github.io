@@ -2,7 +2,7 @@
 layout: post
 title: Annonatate
 description: 
-img: avpd.png
+img: annonatate.png
 tags: [Flask, GitHub, IIIF, Wax]
 link: https://annonatate.herokuapp.com
 ---
